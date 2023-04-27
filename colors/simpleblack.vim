@@ -64,7 +64,7 @@ call <sid>hi('CursorLineNr', s:simpleSteel, s:simpleGray, 'none')
 call <sid>hi('Directory', s:simpleBlue, s:simpleBlack, 'none')
 call <sid>hi('Folded', s:simpleGray3, s:none, 'none')
 call <sid>hi('IncSearch', s:simpleBlack, s:simpleBlue2, 'none')
-call <sid>hi('LineNr', s:simpleGray333, s:simpleBlack, 'none')
+call <sid>hi('LineNr', s:simpleGray3, s:simpleBlack, 'none')
 call <sid>hi('SignColumn', s:simpleGray, s:simpleBlack, 'none')
 
 call <sid>hi('MatchParen', s:simpleWhite, s:simpleBlue2, 'none')
